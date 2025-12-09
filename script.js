@@ -23,8 +23,8 @@ alert(message);
 
 var first = "Hello";
 var second = "World!"
-var combined = first + second;
-alert(combined);
+var Merged = first + second;
+alert(Merged);
 
 
 //  (2) Variables for Strings 
@@ -47,8 +47,8 @@ console.log(fullName);
 
 // task (4)
 
-let favoriteQuote = "Work hard in silence, let success make the noise.";
-console.log(favoriteQuote);
+let BelovedQuote = "Let your hard work stay quiet, and let your success be loud.";
+console.log(BelovedQuote);
 
 // task (5)
 
@@ -73,8 +73,8 @@ console.log(sum);
 
 var num3 = 50;
 var num4 = 16;
-var difference = num1 - num2;
-console.log(difference);
+var Variation = num1 - num2;
+console.log(Variation);
 
 // task (4)
 
@@ -144,7 +144,7 @@ alert("Wow I Like " + color + " too!")
 // task (5)
 
 var city = prompt("Enter your city name:");
-alert("You are from " + city + ".");
+alert("Where are you  from " + city + ".");
 
 //  (6) If Statement and Comparison Operators:
 
@@ -153,9 +153,9 @@ alert("You are from " + city + ".");
 var age4 = prompt("Enter your age:");
 age4 = Number(age4);
 if (age4 < 30) {
-    alert("You're still a young man.");
+    alert("You’re still in your youth.");
 } else {
-    alert("Age is just a number!");
+    alert("Age never decides your potential.");
 }
 
 // task (2)
